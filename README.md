@@ -27,11 +27,10 @@ I'm constantly learning, experimenting, and improving my skills through hands-on
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LLemosDev&theme=github)
-" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLemosDev&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800
-" />
-</p>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LLemosDev&theme=github)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LLemosDev&theme=github)
+
+  </p>
 
 ---
 

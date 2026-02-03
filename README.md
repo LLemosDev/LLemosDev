@@ -27,7 +27,8 @@ I'm constantly learning, experimenting, and improving my skills through hands-on
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LLemosDev&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LLemosDev&theme=github)
+" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLemosDev&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800
 " />
 </p>

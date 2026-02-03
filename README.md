@@ -1,17 +1,45 @@
-# 👋 Hi there
+# 👋 Hi, I'm Lucas Amate
 
-I'm Lucas Amate, 16 years old, an trainee developer. I'm Currently at the high school, studying at IFSP, wich is also a technical school, where i'm building my programming skills, starting my career and developing initials projects.
-<hr>
+I'm a trainee developer and technical high school student at **IFSP (Federal Institute of São Paulo)**.  
+Currently focused on building a solid foundation in **software development**, backend technologies, and problem-solving through real projects.
 
-# :desktop_computer: Tech Stack
+I'm constantly learning, experimenting, and improving my skills through hands-on development.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033&labelColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GameMaker](https://img.shields.io/badge/Game%20Maker-black?style=for-the-badge&logo=gameMaker&logoColor=white&labelColor=black)
-<hr>
+---
 
-# :pushpin: Stats
+## 💻 Tech Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLemosDev&show_icons=true&theme=transparent)
+### Languages & Markup
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LLemosDev&theme=transparent)
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033)
+![GameMaker](https://img.shields.io/badge/Game%20Maker-black?style=for-the-badge&logo=gameMaker&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LLemosDev&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLemosDev&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+- Backend development with Flask
+- Databases and SQL
+- Software architecture fundamentals
+- Competitive programming and algorithms
+
+---
+
+## 📫 Let's Connect
+Feel free to explore my repositories or reach out to collaborate on projects.

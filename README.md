@@ -24,6 +24,8 @@ I'm constantly learning, experimenting, and improving my skills through hands-on
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033)
 ![GameMaker](https://img.shields.io/badge/Game%20Maker-black?style=for-the-badge&logo=gameMaker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 
 ---

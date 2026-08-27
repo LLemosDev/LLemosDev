@@ -42,6 +42,7 @@ I'm constantly learning, experimenting, and improving my skills through hands-on
 
 ## 🚀 Currently Learning
 - Backend development with Flask
+- Backend development with SpringBoot
 - Databases and SQL
 - Software architecture fundamentals
 - Competitive programming and algorithms
